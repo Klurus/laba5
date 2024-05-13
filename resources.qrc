@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon_text.png</file>
+        <file>icon_line.png</file>
+        <file>icon_circle.png</file>
+        <file>icon_square.png</file>
+        <file>icon_delete.png</file>
+        <file>icon_color.png</file>
+        <file>contur.png</file>
+    </qresource>
+</RCC>
